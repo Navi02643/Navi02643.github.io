@@ -17,6 +17,10 @@ span{
     font-weight: bold;
 }
 
+h3{
+  text-align: center;
+}
+
 .content {
   font-family: "Merriweather", serif;
 }
